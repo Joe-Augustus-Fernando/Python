@@ -1,4 +1,3 @@
-# IndexError if the user enters an index that is out of range.
 try:
     list=[1,2,3,4,5,6,7,8,9,0]
     index = int(input("Enter the Index of an element"))

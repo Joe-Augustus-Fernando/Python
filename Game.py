@@ -1,6 +1,6 @@
 permission=input("Enter if you want to play a game or not")
 
-if permission=='yes'or'ok':    
+if permission=='yes':    
  import random as rd
 
  var=rd.randint(1,6)
